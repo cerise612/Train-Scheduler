@@ -1,0 +1,43 @@
+/* title */
+#title{
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #06033d;
+    /* background-image: "../assets/images/background.jpg"; */
+    color: whitesmoke;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 25px;
+}
+/* body font*/
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+/* form and results outline */
+.fields{
+    border: 2px solid;
+    border-color: rgb(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-right:20px;
+    margin-left: 20px;
+}
+/* submit button */
+#submit-button{
+    background-color: #06033d;
+    color: whitesmoke; 
+}
+/* results table alignment */
+#table-results{
+    margin: auto;
+    text-align: left;
+}
+#clear-button{
+    background-color: #06033d;
+    color: whitesmoke; 
+}
